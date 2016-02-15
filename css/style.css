@@ -246,7 +246,7 @@ h1, h2 {
 	background-color: #000; /* Change this setting if you want to modify the general background color of the first category */
 }
 #category-2 .column .media-block {
-	background-color: #90D5D9; /* Change this setting if you want to modify the general background color of the second category */
+	background-color: rgb(255,60,0); /* Change this setting if you want to modify the general background color of the second category */
 }
 #category-3 .column .media-block { 
 	background-color: #8ED3BA;/* Change this setting if you want to modify the general background color of the third category */
