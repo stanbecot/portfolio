@@ -6,7 +6,7 @@
 			<h2>Stanislas Bécot</h2>
 
 			<!-- Here's the mail adress of the contact -->
-			<a href="mailto:pabfaust@gmail.com" target="_top"><h3><strong>stan.becot2s@hotmail.fr</strong></h3></a>
+			<a href="mailto:stan.becot2s@hotmail.fr" target="_top"><h3><strong>stan.becot2s@hotmail.fr</strong></h3></a>
 
 			<!-- Here's where you can write whatever you want, such as the adress of the contact, or the phone number -->
 			<!-- <h4>Here, you can put your phone number, but I won't give you mine !<br><br> -->
