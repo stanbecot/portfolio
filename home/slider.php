@@ -46,6 +46,15 @@
 		</div>
 		<!-- And that's the end -->
 
+		<!-- That's the beginning of the fourth slide -->
+		<div class="slide">
+				<a href="<?php echo $url ?>project1">
+					<div style="background-image:url(<?php echo $url ?>home/img/cover5.jpg)" class="cover"></div>
+				</a>
+				<span class="helper"></span>
+		</div>
+		<!-- And that's the end -->
+
 		<!-- Here's where you should be pasting new slides -->
 		
 	</div>
