@@ -12,14 +12,14 @@
 			<!-- <h4>Here, you can put your phone number, but I won't give you mine !<br><br> -->
 
 
-			<strong>See more:</strong></h4>
+<!-- 			<strong>See more:</strong></h4> -->
 
 			<!-- Here are the social icons -->
 			<a href="https://www.facebook.com/biankalovesyou" target="_blank"><i class="fa fa-facebook-official fa-2x"></i></a>
 			<!-- <a href="https://twitter.com/PabFaust" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> -->
 			<!-- <a href="https://www.behance.net/BIANKA7" target="_blank"><i class="fa fa-behance-square fa-2x"></i></a> -->
-			<a href="https://soundcloud.com/biankamusic"><i class="fa fa-soundcloud fa-2x"></i></a>
-			<a href="https://instagram.com/bianka7"><i class="fa fa-instagram fa-2x"></i></a>
+			<a href="https://soundcloud.com/biankamusic" target='_blank'><i class="fa fa-soundcloud fa-2x"></i></a>
+			<a href="https://instagram.com/bianka7" target='_blank'><i class="fa fa-instagram fa-2x"></i></a>
 			<!-- You should paste here the social icons you want to agregate -->
 
 	</div>
